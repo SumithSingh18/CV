@@ -1,0 +1,31 @@
+body {
+    background-color: powderblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+
+h1 {
+    color: #4D4792;
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    width: fit-content;
+}
+
+h3 {
+    color: #4D4792;
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 2px;
+    width: fit-content;
+}
